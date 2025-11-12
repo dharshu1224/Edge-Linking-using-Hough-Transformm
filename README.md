@@ -1,6 +1,6 @@
 # Edge-Linking-using-Hough-Transformm
 ## Aim:
-To write a Python program to detect the lines using Hough Transform.
+To write a Python program to detect the lines using Hough Transform. 
 
 ## Software Required:
 Anaconda - Python 3.7
